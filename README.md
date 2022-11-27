@@ -1,0 +1,3 @@
+```
+npx @abdullah-khan/mybank
+```
